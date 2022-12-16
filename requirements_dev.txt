@@ -1,17 +1,17 @@
 -r ./requirements.txt
-twine==1.13.0
 fakeredis==1.1.0
 freezegun==0.3.12
-slackclient==1.3.0
-tabulate==0.8.3
 psutil==5.6.6
-mkdocs==1.0.4
-mkdocs-material
+#mkdocs==1.4.2 
+#mkdocs-material==8.5.11
 hypothesis==4.48.1
 mock==2.0.0
 Faker==1.0.0
-ifaddr==0.1.6
-twine==1.13.0
-awscli==1.16.297
+ifaddr==0.2.0
+twine==4.0.2
+rsa==4.7.2
+#awscli==1.27.31
+awscli
 setuptools_scm==3.3.3
-docker-compose==1.25.5
+websocket-client==0.59.0
+docker-compose==1.29.2

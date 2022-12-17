@@ -1,3 +1,14 @@
+** Installation on ubuntu 20.4
+
+rm -rf .venv/ && python3 -m venv .venv && . .venv/bin/activate  && pip3 install wheel && pip3 install -r requirements_dev.txt
+
+
+
+
+
+
+
+
 **Build Statuses:**
 
 [![Master Build](https://jenkins.shehanigans.net/buildStatus/icon?job=atlas%2Fmaster&subject=atlas\/Master%20build%20ID%20${buildId}%20took%20${duration})](https://jenkins.shehanigans.net/job/atlas/job/master/)

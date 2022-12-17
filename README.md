@@ -4,7 +4,9 @@
 
 `python3 -m venv .venv && . .venv/bin/activate  && pip3 install wheel && pip3 install -r requirements_dev.txt`
 
+`. ./activate_dev_env.sh`   
 
+`make devenv-start`  
 
 
 

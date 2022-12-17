@@ -1,7 +1,8 @@
 ### Installation on ubuntu 20.4 - packages had incompatibility just the incompatibilities resolved..
 
+`git clone https://github.com/AbuAliAmin/atlas.git`
 
-rm -rf .venv/ && python3 -m venv .venv && . .venv/bin/activate  && pip3 install wheel && pip3 install -r requirements_dev.txt
+`rm -rf .venv/ && python3 -m venv .venv && . .venv/bin/activate  && pip3 install wheel && pip3 install -r requirements_dev.txt`
 
 
 

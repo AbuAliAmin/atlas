@@ -1,3 +1,9 @@
+### prerequisites
+Ubuntu:
+`apt install docker`
+`apt install docker-compose`
+`apt install yarn`
+`apt install gettext`
 ### Installation on ubuntu 20.4 - packages had incompatibility just the incompatibilities resolved..
 
 `git clone https://github.com/AbuAliAmin/atlas.git`
